@@ -1,2 +1,2 @@
 # Haste Code
-We're working on a Firefox-based web browser
+We're working on some things
